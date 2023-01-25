@@ -1,0 +1,1 @@
+# live-qrcode-scanner
